@@ -1,0 +1,11 @@
+body {
+  color: white;
+  background: url('images1/back.jpg');
+  width: 100%;
+}
+.name {
+  color: aqua;
+  font-style: italic; 
+  font-weight: bold;
+}
+ 

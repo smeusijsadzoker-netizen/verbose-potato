@@ -1,0 +1,49 @@
+table {
+margin-top: 10px;
+}
+
+.sport {
+  width: 30%;
+}
+
+table.sport th {
+  text-align: center;
+  padding: 2px 5px;
+}
+
+table.sport td.left {
+  text-align: left;
+  padding: 2px 5px;
+}
+
+table.sport td {
+  text-align: center;
+  padding: 2px 5px; 
+}
+
+.header {
+    background-image: url("images/back.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+
+    color: white; 
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 20px; 
+    text-align: center; 
+}
+
+.picture{
+background-image: url('images/paper.jpg');
+padding: 10px; 
+width: 120px;
+text-align: center;
+}
+
+.note{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #800000; 
+    text-align: center;
+    padding: 5px 10px; 
+}
